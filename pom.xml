@@ -50,5 +50,6 @@
   </dependencies>
   <modules>
     <module>Project_java</module>
+    <module>test_java</module>
   </modules>
 </project>
